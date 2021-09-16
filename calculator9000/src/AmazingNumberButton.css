@@ -1,0 +1,18 @@
+.AmazingNumberButton {
+    background-color: lavender;
+    display: flex;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.5);
+    height: 100px;
+    min-width: 25%;
+}
+
+.AmazingNumberButton:hover {
+    background-color: violet;
+    cursor: default;
+}

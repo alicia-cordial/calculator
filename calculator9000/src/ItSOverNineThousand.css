@@ -1,0 +1,9 @@
+.ItSOverNineThousand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightyellow;
+    height: 100px;
+    color: black;
+    font-size: 24px;
+}
