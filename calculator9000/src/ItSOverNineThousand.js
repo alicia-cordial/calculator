@@ -6,7 +6,7 @@ function ItSOverNineThousand(props) {
     return (
         <div
             className="ItSOverNineThousand">
-            {props.data}
+            <p>It is over 9000!!!!!</p>
         </ div>
     );
 }
